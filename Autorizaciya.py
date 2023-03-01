@@ -1,3 +1,4 @@
+# а это типа дев ветка понял да?
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -18,3 +19,4 @@ username_input.send_keys(Keys.ENTER)
 
 while(True):
     pass
+# понял
